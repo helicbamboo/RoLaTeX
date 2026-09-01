@@ -12,7 +12,7 @@ TEXT_EXT = ".rltx"
 OUTPUT_EXT = ".tex"
 
 AUTO_COMPILE_PDF = True
-LATEX_COMPILER = "xelatex"
+LATEX_COMPILER = "pdflatex"
 CLEAN_TEMP_FILES = True
 TEMP_EXTS = [
     ".aux",
